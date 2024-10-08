@@ -27,9 +27,3 @@ int main(int argc, char **argv)
 	check("ПРИВЕТ","QWERTY");
 return 0;
 }
-: ...
-
-<!---
-ol-oi/ol-oi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
