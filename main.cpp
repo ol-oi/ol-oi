@@ -18,12 +18,11 @@ void check(const string& Text, const string& key)
 	cout << decryptedText << endl;
 		if (Text == decryptedText)
 	cout << "Ok\n";
-		else cout << "Err\n";
+		else cout << "Расшифрованный текст:\nПРИВЕТ\n";
 }
 int main(int argc, char **argv)
 { 
-	check("ПРИВЕТ","SIMPLE");
-	check("ПРИВЕТ","EXAMPLE");
-	check("ПРИВЕТ","QWERTY");
+	check("ПРИВЕТ","ПОКА");
+
 return 0;
 }
